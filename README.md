@@ -80,8 +80,10 @@ Program ini dilengkapi dengan slider untuk mengukur **Kehadiran Mahasiswa** dan 
 ```
 src/
 │
-├── Menu.java          // Kelas utama yang menangani GUI dan logika CRUD
 ├── Mahasiswa.java     // Kelas model untuk data mahasiswa
+├── Menu
+    ├── Menu.java          // Kelas utama yang menangani GUI dan logika CRUD
+    ├── Menu.form          
 ```
 
 ### 6. Penggunaan JSlider
