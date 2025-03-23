@@ -90,5 +90,3 @@ Pada form input **Kehadiran**, kita menggunakan **JSlider** untuk mengukur tingk
 ## Kesimpulan
 
 Program ini memberikan contoh sederhana untuk menangani form input, tabel data, dan penggunaan slider dalam aplikasi Java Swing. Dengan komponen-komponen seperti **JTextField**, **JComboBox**, **JSlider**, dan **JTable**, kita dapat membuat antarmuka pengguna yang interaktif dan responsif.
-
-Jika ada pertanyaan lebih lanjut atau jika ada kesalahan dalam implementasi, silakan beri tahu saya!
