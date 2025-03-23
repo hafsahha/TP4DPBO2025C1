@@ -18,7 +18,7 @@ Program ini dilengkapi dengan slider untuk mengukur **Kehadiran Mahasiswa** dan 
 5. Menggunakan **JSlider** untuk mengukur kehadiran mahasiswa dan memperbarui label setiap kali nilai slider berubah.
 
 ## Desain Program
-
+![Diagram Kelas Program](Screenshoot/TP4.png)
 ### 1. Struktur Kelas
 
 - **Mahasiswa**: Kelas yang merepresentasikan data mahasiswa seperti **NIM**, **Nama**, **Jenis Kelamin**, dan **Kehadiran**.
@@ -90,3 +90,8 @@ Pada form input **Kehadiran**, kita menggunakan **JSlider** untuk mengukur tingk
 ## Kesimpulan
 
 Program ini memberikan contoh sederhana untuk menangani form input, tabel data, dan penggunaan slider dalam aplikasi Java Swing. Dengan komponen-komponen seperti **JTextField**, **JComboBox**, **JSlider**, dan **JTable**, kita dapat membuat antarmuka pengguna yang interaktif dan responsif.
+
+
+## Dokumentasi 
+
+<video controls src="Screenshoot/Recording 2025-03-23 104510.mp4" title="Dokumentasi"></video>
