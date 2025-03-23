@@ -88,10 +88,9 @@ src/
 Pada form input **Kehadiran**, kita menggunakan **JSlider** untuk mengukur tingkat kehadiran mahasiswa, dengan nilai slider yang diubah antara 0-100%. Setiap kali slider digeser, **JLabel** **KehadiranLabel** akan diperbarui untuk menunjukkan nilai kehadiran yang terkini.
 
 ## Kesimpulan
-
 Program ini memberikan contoh sederhana untuk menangani form input, tabel data, dan penggunaan slider dalam aplikasi Java Swing. Dengan komponen-komponen seperti **JTextField**, **JComboBox**, **JSlider**, dan **JTable**, kita dapat membuat antarmuka pengguna yang interaktif dan responsif.
 
 
 ## Dokumentasi 
 
-<video controls src="Screenshoot/Recording 2025-03-23 104510.mp4" title="Dokumentasi"></video>
+https://github.com/user-attachments/assets/84dadb6c-2a03-470d-8f43-aa89b4608082
